@@ -20,9 +20,8 @@ try {
   await fs.writeFile(
     fullHookPath,
     `#!/bin/sh
-    . "$(dirname "$0")/_/husky.sh"
+    npx --no-install commitlint --edit "$1"
 
-    npx commitlint --edit "$1"
     echo "✅ commit-msg hook ran"`
   )
   await fs.chmod(fullHookPath, 0o755)
