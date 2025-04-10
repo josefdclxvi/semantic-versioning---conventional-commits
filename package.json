@@ -7,7 +7,7 @@
     "release": "release-it",
     "test": "vitest run",
     "test:watch": "vitest watch",
-    "prepare": "husky"
+    "prepare": "node .husky/install.mjs"
   },
   "keywords": [],
   "author": "",
