@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.0 (2025-04-10)
+
+* test: update test cases ([6fca094](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/6fca094))
+* feat: add kemerotin and someRandomFunction function ([883bc0a](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/883bc0a))
+
 ## <small>1.2.1 (2025-04-10)</small>
 
 * chore: create initial README.md ([3fe90dc](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/3fe90dc))
