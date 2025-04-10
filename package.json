@@ -6,7 +6,7 @@
   "scripts": {
     "release": "release-it",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "node .husky/install.mjs"
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
