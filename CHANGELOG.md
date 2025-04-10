@@ -1,5 +1,15 @@
 # Changelog
 
+## <small>1.2.1 (2025-04-10)</small>
+
+* chore: create initial README.md ([3fe90dc](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/3fe90dc))
+* chore(husky): remove configuration file ([6a38142](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/6a38142))
+* chore(husky): update prepare husky ([48acb0b](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/48acb0b))
+* fix: scripts.prepare ([89e8fc8](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/89e8fc8))
+* docs: update read.me with project setup ([edfdf48](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/edfdf48))
+* docs: update README for release-it setup ([b889058](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/b889058))
+* test: add test pre-commit ([5d9a2e9](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/5d9a2e9))
+
 ## 1.2.0 (2025-04-10)
 
 * chore: push package-lock.json ([260dec8](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/260dec8))
