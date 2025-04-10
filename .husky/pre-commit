@@ -1,0 +1,5 @@
+#!/bin/sh
+npm test
+#npx eslint . --ext .js,.jsx,.ts,.tsx
+#npx prettier --write .
+#npx tsc --noEmit
