@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>1.3.1 (2025-04-11)</small>
+
+* docs: update README ([7cb3964](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/7cb3964))
+
 ## 1.3.0 (2025-04-10)
 
 * test: update test cases ([6fca094](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/6fca094))
