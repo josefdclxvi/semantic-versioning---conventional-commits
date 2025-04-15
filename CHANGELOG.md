@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.4.0 (2025-04-15)
+
+* chore: push package-lock.json to the repo ([9e66aa3](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/9e66aa3))
+* chore: update pre-commit file and add eslint & prettier ([51b38ff](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/51b38ff))
+* chore: update prettier config in pre-commit ([4d7bddd](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/4d7bddd))
+* chore: update prettier config in pre-commit ([1cf60f8](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/1cf60f8))
+* chore: update script ([763fc96](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/763fc96))
+* feat: add sample component inside src ([f205336](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/f205336))
+* docs: update README ([388635c](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/388635c))
+* refactor: update spaces, semi colons in config files and restructure the project ([c143b47](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/c143b47))
+
 ## <small>1.3.2 (2025-04-15)</small>
 
 * style: remove unused imports ([1b656d4](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/1b656d4))
