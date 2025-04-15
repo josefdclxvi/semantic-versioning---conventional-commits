@@ -1,5 +1,9 @@
 # Changelog
 
+## <small>1.3.2 (2025-04-15)</small>
+
+* style: remove unused imports ([1b656d4](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/1b656d4))
+
 ## <small>1.3.1 (2025-04-11)</small>
 
 * docs: update README ([7cb3964](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/7cb3964))
