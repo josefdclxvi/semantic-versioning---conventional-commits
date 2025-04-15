@@ -7,7 +7,9 @@
     "release": "release-it",
     "test": "vitest run",
     "test:watch": "vitest watch",
-    "prepare": "node create-husky.mjs"
+    "prepare": "node create-husky.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "keywords": [],
   "author": "",
@@ -81,5 +83,14 @@
         "infile": "CHANGELOG.md"
       }
     }
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.24.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-prettier": "^5.2.6",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.30.1"
   }
 }
