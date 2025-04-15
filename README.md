@@ -29,11 +29,15 @@ npm run prepare
 but in this case just run **npm install**
 
 ## 🚀 Setup Instructions for Release-it
+
 - install
+
 ```bash
   npm install --save-dev release-it @release-it/conventional-changelog
 ```
+
 - add **release-it** in package.json
+
 ```json
   "release-it": {
     "git": {
