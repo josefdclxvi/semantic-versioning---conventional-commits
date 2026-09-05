@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/compare/v1.4.0...v1.4.2) (2026-09-05)
+
+### Bug Fixes
+
+* compatible version versus depebdabot alerts ([2628013](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/26280138a82ee5529eadcf6a4b46c6c9d6b269af))
+* release-it package version ([07ce138](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/07ce138876d0b837c3568750ed9a0e8e0d0e0513))
+
 ## 1.4.0 (2025-04-15)
 
 * chore: push package-lock.json to the repo ([9e66aa3](https://github.com/josefdclxvi/semantic-versioning---conventional-commits/commit/9e66aa3))
